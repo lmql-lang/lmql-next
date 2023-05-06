@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/eth-sri/lmql/web/lmql.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">LMQL</h3>
+  <h3 align="center">LMQL Next</h3>
 
   <p align="center">
     A query language for programming (large) language models.
